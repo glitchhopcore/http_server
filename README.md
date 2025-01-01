@@ -1,2 +1,10 @@
 # http_server
-sometimes i don't wanna scp
+hosts a simple server, with text hello world
+
+```bash
+mkdir build
+cd build
+cmake ..
+make 
+./http_server
+```
