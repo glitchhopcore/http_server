@@ -1,5 +1,5 @@
 # http_server
-hosts a simple server, with text hello world
+hosts a simple server, with the text hello world for now
 
 ```bash
 mkdir build
